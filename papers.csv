@@ -1,0 +1,39 @@
+Year,Title,Conference,URL,Code
+2024,Neural Video Compression with Feature Modulation,CVPR’24,https://arxiv.org/pdf/2402.17414,P-frame
+2024,Motion Information Propagation for Neural Video Compression,CVPR'24,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10205452,P-frame
+2024,MaskCRT: Masked Conditional Residual Transformer for Learned Video Compression,TCSVT’24,https://ieeexplore.ieee.org/document/10596319,P-frame
+2024,Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding,TCSVT’24,https://ieeexplore.ieee.org/document/10416172,P-frame
+2024,Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression, TCSVT’24,https://ieeexplore.ieee.org/document/10416688,P-frame
+2024,NVC-1B: A Large Neural Video Coding Model,Arxiv'24,https://arxiv.org/pdf/2407.19402,P-frame
+2024,Prediction and Reference Quality Adaptation for Learned Video Compression,Arxiv'24,https://arxiv.org/pdf/2406.14118,P-frame
+2024,Benchmarking Conventional and Learned Video Codecs with a Low-Delay Configuration,Arxiv'24,https://arxiv.org/pdf/2408.05042,P-frame
+2024,Group-aware Parameter-efficient Updating for Content-AdaptiveNeural Video Compression,MM'24,https://arxiv.org/pdf/2405.04274,P-frame
+2024,Uncertainty-Aware Deep Video Compression With Ensembles,TMM'24,https://ieeexplore.ieee.org/abstract/document/10461131,P-frame
+2024,Neural Rate Control for Learned Video Compression,ICLR'24,https://ieeexplore.ieee.org/abstract/document/10461131,P-frame
+2024,C3: High-performance and low-complexity neural compression from a single image or video,CVPR'24,https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_C3_High-Performance_and_Low-Complexity_Neural_Compression_from_a_Single_Image_CVPR_2024_paper.pdf,P-frame
+2024,Offline and Online Optical Flow Enhancement for Deep Video Compression,AAAI'24,https://ojs.aaai.org/index.php/AAAI/article/view/28317/28623,P-frame
+2024,MobileNVC: Real-time 1080p Neural Video Compression on a Mobile Device,WACV'24,https://openaccess.thecvf.com/content/WACV2024/papers/van_Rozendaal_MobileNVC_Real-Time_1080p_Neural_Video_Compression_on_a_Mobile_Device_WACV_2024_paper.pdf,P-frame
+2024,On the Rate-Distortion-Complexity Trade-offs of Neural Video Coding,MMSP'24,https://arxiv.org/pdf/2410.03898,P-frame
+2024,Parameter-Efficient Instance-Adaptive Neural Video Compression,Arxiv'24,https://arxiv.org/pdf/2405.08530,P-frame
+2024,Hybrid Local-Global Context Learning for Neural Video Compression,DCC'24,https://ieeexplore.ieee.org/abstract/document/10533790,P-frame
+2024,Long-Term and Short-Term Information Propagation and Fusion for Learned Video Compression,TBC'24,https://ieeexplore.ieee.org/abstract/document/10659718,P-frame
+2024,Hierarchical Bi-directional Temporal Context Mining for Improved Video Compression,MMM'24,https://link.springer.com/content/pdf/10.1007/978-3-031-53305-1.pdf,B-frame
+2024,OMRA: Online Motion Resolution Adaptation to Remedy Domain Shift in Learned Hierarchical B-frame Coding,ICIP'24,https://arxiv.org/pdf/2402.12816,B-frame
+2024,Motion-Adaptive Inference for Flexible Learned B-Frame Compression,ICIP'24,https://arxiv.org/pdf/2402.08550,B-frame
+2024,Conditional Variational Autoencoders for Hierarchical B-Frame Coding,"ISCAS""24",https://ieeexplore.ieee.org/document/10558111,B-frame
+2024,Bi-Directional Deep Contextual Video Compression,arxiv'24,https://arxiv.org/pdf/2408.08604,B-frame
+2024,Hierarchical B-frame Video Coding for Long Group of Pictures,arxiv'24,https://arxiv.org/pdf/2406.16544,B-frame
+2024,UCVC: A Unified Contextual Video Compression Framework with Joint B-frame and B-frame Coding,DCC'24,https://arxiv.org/pdf/2402.01289,B-frame
+2024,Ibvc: Interpolation-driven b-frame video compression,arxiv'24,https://arxiv.org/pdf/2309.13835,B-frame
+2023,Neural Video Compression with Diverse Contexts,CVPR’23,https://arxiv.org/pdf/2302.14402,P-frame
+2023,MMVC: Learned Multi-Mode Video Compression with Block-based Prediction Mode Selection and Density-Adaptive Entropy Coding,CVPR'23,https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_MMVC_Learned_Multi-Mode_Video_Compression_With_Block-Based_Prediction_Mode_Selection_CVPR_2023_paper.pdf,P-frame
+2023,Butterfly: Multiple Reference Frames Feature Propagation Mechanism for Neural Video Compression,DCC'23,https://arxiv.org/pdf/2303.02959,P-frame
+2023,A Neural Video Codec with Spatial Rate-distortion Control,WACV'23,https://openaccess.thecvf.com/content/WACV2023/papers/Fathima_A_Neural_Video_Codec_With_Spatial_Rate-Distortion_Control_WACV_2023_paper.pdf,P-frame
+2023,Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression,TIP'23,https://ieeexplore.ieee.org/abstract/document/1015964,P-frame
+2023,IBVC: Interpolation-driven B-frame video compression,Pattern Recognition'23,https://arxiv.org/pdf/2309.13835,P-frame
+2023,Motion Information Propagation for Neural Video Compression,CVPR'23,https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.pdf,P-frame
+2023,B-CANF: Adaptive B-Frame Coding With Conditional Augmented Normalizing Flows,TCSVT'23,https://ieeexplore.ieee.org/document/10201921,B-frame
+2023,Hierarchical B-frame Video Compression Using Two-layer CANF without Motion Coding,CVPR'23,https://openaccess.thecvf.com/content/CVPR2023/papers/Alexandre_Hierarchical_B-Frame_Video_Coding_Using_Two-Layer_CANF_Without_Motion_Coding_CVPR_2023_paper.pdf,B-frame
+2023,Learned Hierarchical B-frame Coding with Adaptive Feature Modulation for YUV 4:2:0 Content,ISCAS'23,https://ieeexplore.ieee.org/document/10181948,B-frame
+2023,ate Adaptation for Learned Two-layer B-frame Coding without Signaling Motion Information,VCIP'23,https://ieeexplore.ieee.org/document/10402774,B-frame
+2023,Multi-Scale Deformable Alignment and Content-Adaptive Inference for Flexible-Rate Bi-Directional Video Compression,ICIP'23,https://arxiv.org/pdf/2306.16544,B-frame
